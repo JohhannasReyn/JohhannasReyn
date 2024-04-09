@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohhannasReyn
 - 👀 I’m interested in all things cutting edge tech.
-- 🌱 I’m currently learning all about AI and data structures to work around or into neural networks, algorithms to help backpropogation.
+- 🌱 I’m currently exploring alternative and obscure data structures to optomize backpropogation of neural networks for AI.
 - 💞️ I’m looking to collaborate on OpenDevin
 - 📫 How to reach me johhannasreyn@gmail.com
 - 😄 Pronouns: He/Him/Bro
